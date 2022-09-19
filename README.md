@@ -21,5 +21,6 @@ The five classes represent cover for;
 | Branch/trunk:     |   5       |            Branches and trunks of woody vegetation |
 
 Details on the methodology to develop this classifier can be found in chapter 5:
+
 Staben, G. (2020).Development of remote sensing products to investigate the impact of tropical cyclones on natural vegetation communities in the wet-dry tropics of northern Australia. Doctoral dissertation, University of Tasmania. https://eprints.utas.edu.au/37967/
 
