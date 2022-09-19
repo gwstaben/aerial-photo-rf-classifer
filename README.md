@@ -10,6 +10,8 @@ The aim of this classifier is to obtain estimates of woody green (woody Foliage 
 
 Example of 15cm Digital Aerial Photograph and the woody green vegetation class. 
 
+This repository contains scripts to extract the training data from the imagery, parametrise the classifier and serialise the random forest classifier and apply the classification to aerial photography. 
+
 The five classes represent cover for;
 
 | Class |              Pixel value    |        Description |
